@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @johannesjan
+- 👋 Hi, I’m @jojasadventure (johannesjan)
 - 👀 I’m interested in self-hosting solutions and integrating AI into my open-source setup.
 - 🌱 I’m currently learning to build Python tools that connect language models with services like to-do lists.
 - 🤝 I’m looking to collaborate on projects related to self-hosted applications, AI development, or web UI design.
